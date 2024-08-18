@@ -155,7 +155,7 @@ export default function Home() {
   return (
     <div className={`flex flex-col h-screen ${primary}`}>
       <header className={`p-4 ${secondary} flex justify-between items-center shadow-md`}>
-        <h1 className={`text-3xl font-semibold ${text}`}>AICHATTT</h1>
+        <h1 className={`text-3xl font-semibold ${text}`}>RecFoodAI</h1>
         <div className="flex items-center space-x-4">
           <label htmlFor="theme" className={`text-lg ${text}`}>
             Theme
